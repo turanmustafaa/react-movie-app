@@ -1,0 +1,25 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "A",
+      "rating": 6.1,
+      "overview": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod soluta iure facere ratione, consequatur amet repellat exercitationem porro laudantium alias eius asperiores corporis nihil quam voluptate officia. Est, nisi natus!",
+      "imageURL": "https://picsum.photos/200/300?grayscale"
+    },
+    {
+      "name": "Be",
+      "rating": 6.2,
+      "overview": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod soluta iure facere ratione, consequatur amet repellat exercitationem porro laudantium alias eius asperiores corporis nihil quam voluptate officia. Est, nisi natus!",
+      "imageURL": "https://picsum.photos/201/300?grayscale",
+      "id": 2
+    },
+    {
+      "name": "Spider-Man",
+      "rating": "6.5",
+      "overview": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod soluta iure facere ratione, consequatur amet repellat exercitationem porro laudantium alias eius asperiores corporis nihil quam voluptate officia. Est, nisi natus!",
+      "imageURL": "https://picsum.photos/202/300?grayscale",
+      "id": 3
+    }
+  ]
+}
