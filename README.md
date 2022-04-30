@@ -14,6 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `npx json-server --watch src/api/movies.json --port 3002`
+
+build the fake server for backend connection.
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
